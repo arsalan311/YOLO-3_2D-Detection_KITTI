@@ -2,6 +2,9 @@
 Minimal implementation of YOLOv3 in PyTorch.
 And Training from Kitti dataset
 
+This Repo is to save the sigmoid files after 2D detection with changing NMS and confidence for CLOC and other fusion Implementation
+
+
 ## Table of Contents
 - [PyTorch-YOLOv3](#pytorch-yolov3-kitti)
   * [Table of Contents](#table-of-contents)
